@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn 
+SQLAlchemy
+psycopg2-binary
+pydantic
+httpx
+pytest
+websocket-client
+
